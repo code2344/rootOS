@@ -43,6 +43,13 @@ The tool will:
 
 ### Modern Exploits (macOS 13.x - 15.x+)
 
+**Note**: The problem statement mentions "macOS Tahoe (26)" but current macOS versions are:
+- macOS 15.x = Sequoia
+- macOS 14.x = Sonoma  
+- macOS 13.x = Ventura
+
+The modern exploits target these latest versions and future releases.
+
 | Name                    | CVE                      | Target Versions       | Description                                          |
 | ----------------------- | ------------------------ | --------------------- | ---------------------------------------------------- |
 | Sequoia PrivEsc        | 2024-SEQUOIA-PRIVESC     | 15.x (Sequoia)+       | System path manipulation and permission exploitation |
