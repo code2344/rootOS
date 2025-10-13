@@ -39,8 +39,6 @@ The tool will:
 
 ## Exploits
 
-## Exploits
-
 ### Modern Exploits (macOS 13.x - 15.x+)
 
 **Note**: The problem statement mentions "macOS Tahoe (26)" but current macOS versions are:
